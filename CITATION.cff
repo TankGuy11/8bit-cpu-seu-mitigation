@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Ramavath"
+    given-names: "Vihaan"
+title: "SEU Mitigation in a Custom 8-Bit FPGA Processor"
+repository-code: "https://github.com/TankGuy11/8bit-cpu-seu-mitigation"
+license: "Apache-2.0"
+abstract: >-
+  Verilog-based custom multicycle 8-bit FPGA processor and controlled
+  logical fault-injection platform comparing SECDED ECC, memory scrubbing,
+  and triple modular redundancy.
+keywords:
+  - FPGA
+  - Verilog
+  - single-event upset
+  - fault injection
+  - SECDED
+  - memory scrubbing
+  - triple modular redundancy

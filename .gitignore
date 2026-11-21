@@ -1,0 +1,39 @@
+# Compiled simulations and waveforms
+build/
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.ghw
+*.wlf
+*.log.tmp
+
+# Python and local tools
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
+
+# GOWIN-generated work products (keep source RTL and constraint files)
+impl/
+syn/
+*.fs
+*.fi
+*.db
+*.tmp
+*.bak
+
+# LaTeX intermediate files (keep .tex, .bib and the final PDF)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.log
